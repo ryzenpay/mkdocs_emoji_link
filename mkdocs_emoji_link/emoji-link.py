@@ -4,8 +4,6 @@
 #       It takes the name of the page, in the mkdocs.yml goes to extra: -> emoji -> <page name>
 #   For email references:
 #       takes the email, in the mkdocs.yml goes to extra: -> social -> <email>
-# to exclude something from getting linked, place a ./ infront of the page name
-
 #https://mkdocs-dupe-test.readthedocs.io/en/latest/user-guide/plugins/
 
 from mkdocs.config.defaults import MkDocsConfig
